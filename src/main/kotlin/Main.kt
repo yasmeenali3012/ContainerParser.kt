@@ -28,7 +28,7 @@ package org.example.containerparser
  * "Crate"/"Box" are structural noise and discarded.
  *
  * ============================================================================
- * JVM CALL STACK WALKTHROUGH - شرح عمل المكدس
+ * JVM CALL STACK WALKTHROUGH 
  * ============================================================================
  * Every helper function below (`skipWhitespace`, `readToken`,
  * `parseSequence`, `parseElement`) is a plain, non-tail-recursive JVM method.
